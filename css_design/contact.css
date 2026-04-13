@@ -93,21 +93,12 @@ nav .active {
     flex: 1;
     background: #2c3e50;
     color: white;
-    padding: 40px;
+    padding: 5px;
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
 
-.contact-info2 {
-    flex: 1;
-    background: #2c3e50;
-    color: white;
-    padding: 40px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-}
 
 .contact-info h2 {
     margin-bottom: 20px;
