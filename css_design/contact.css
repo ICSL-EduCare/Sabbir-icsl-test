@@ -72,6 +72,22 @@ nav a {
     box-shadow: 0 5px 15px rgba(0,0,0,0.1);
 }
 
+.call-btn {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 12px 20px;
+    background: rgb(15, 68, 165);
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.call-btn:hover {
+    background: rgb(77, 59, 156);
+}
+
 .row {
     display: flex;
     gap: 10px;
